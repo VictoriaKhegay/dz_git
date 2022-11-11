@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner{
+    margin-top: 50px;
+    margin-left: 100px;
+    display: block;
+    width: 400px;
+    border: 5px solid #968089;
+}
+
+.title{
+    text-align: center;
+    background-color:#968089;
+}
+
+.list{
+    background-color: #968089;
+}
+
+.list li{
+    position: relative;
+    display: block;
+    padding: 15px 5px;
+    margin-bottom: 5px;
+    background: #e6ded4;
+    color: #4e4051;
+    text-align: left;
+}
+
+h3{
+    color: #e6ded4;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.list .world{
+    margin-bottom: 0;
+}
